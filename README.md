@@ -1,4 +1,4 @@
-### Hi there 👋
+  ### Hi there 👋
 
    ✏️ Computer Science at The New Jersey Institute of Technology '23  
    💻 Incoming Full Stack Engineer Intern at Fidelity  
