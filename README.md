@@ -1,9 +1,9 @@
   ### Hi there 👋
 
-   ✏️ Computer Science at The New Jersey Institute of Technology '23  
+   ✏️ Computer Science at The New Jersey Institute of Technology '24  
    💻 Front-end Developer  
-   🔭 Currently working on an NFT marketplace on the upcoming Sui blockchain
-   💡 Fluent: Java, Python, ReactJS, VueJS, TypeScript
+   🔭 Currently working on a defi app on the upcoming Sui blockchain (cordialabs.com)
+   💡 Fluent: Java, Python, React, TypeScript
 
    ☑️ LinkedIn - /in/vladimir-gutierrez  
 
