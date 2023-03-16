@@ -1,7 +1,7 @@
   ### Hi there 👋
 
    ✏️ Computer Science at The New Jersey Institute of Technology '24  
-   💻 Front-end Developer  
+   💻 Full-Stack Developer  
    🔭 Currently working on a defi app on the upcoming Sui blockchain (cordialabs.com)
    💡 Fluent: Java, Python, React, TypeScript
 
