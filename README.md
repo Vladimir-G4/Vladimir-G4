@@ -2,7 +2,7 @@
 
    ✏️ Computer Science at The New Jersey Institute of Technology '24  
    💻 Full-Stack Developer  
-   🔭 Currently working on a defi app on the upcoming Sui blockchain (cordialabs.com)
+   🔭 Currently working on a DEX dApp on the upcoming Sui blockchain (cordialabs.com)
    💡 Fluent: Java, Python, React, TypeScript
 
    ☑️ LinkedIn - /in/vladimir-gutierrez  
