@@ -2,8 +2,8 @@
 Hi, my name is Vladimir. I am currently a Software Engineer Co-op at Prudential. I am also an incoming Software Development Intern at Disney. In the past, I have interned at Selective Insurance, Fidelity, and PwC. Feel free to reach out via [email](mailto:vg377@njit.edu) or on [LinkedIn](https://www.linkedin.com/in/vladimir-gutierrez/)!
 
 ## 🌱 Projects
-* NJITBytes [repo](https://github.com/jll38/njitbytes), .
-* OddsPro [repo](https://github.com/Vladimir-G4/OddsPro), an open-source tool that .
+* NJITBytes [repo](https://github.com/jll38/njitbytes), originally a HackNJIT project, features personalized meal planning with AI integration, real-time menu updates, and nutritional insights for NJIT's Dining Hall.
+* OddsPro [repo](https://github.com/Vladimir-G4/OddsPro), an open-source tool that recommends MLB betting lines based on historical statistics.
 
 ## My Current Project: NJITBytes
 
