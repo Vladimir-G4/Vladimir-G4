@@ -9,6 +9,6 @@ Hi, my name is Vladimir. I am currently a Software Engineer Co-op at Prudential.
 
 Check out https://njitbytes.co for more information!
 
-<a href="https://githubtrends.io">
+<a href="https://njitbytes.co">
   <img align="center" src="https://github.com/Vladimir-G4/Vladimir-G4/assets/17418847/a534bc60-48c3-4d7e-93f0-645eb1c448b6" />
 </a>
