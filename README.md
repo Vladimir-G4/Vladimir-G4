@@ -5,10 +5,12 @@ Hi, my name is Vladimir. I am currently a Software Engineer Co-op at Prudential.
 * NJITBytes [repo](https://github.com/jll38/njitbytes), originally a HackNJIT project, features personalized meal planning with AI integration, real-time menu updates, and nutritional insights for NJIT's Dining Hall.
 * OddsPro [repo](https://github.com/Vladimir-G4/OddsPro), an open-source tool that recommends MLB betting lines based on historical statistics.
 
-## My Current Project: NJITBytes
+## Project Snippets
 
-Check out https://njitbytes.co for more information!
+Check out https://njitbytes.co!
 
-<a href="https://njitbytes.co">
-  <img align="center" src="https://github.com/Vladimir-G4/Vladimir-G4/assets/17418847/a534bc60-48c3-4d7e-93f0-645eb1c448b6](https://github.com/Vladimir-G4/Vladimir-G4/assets/17418847/84a44536-5a6b-4f99-a473-c1c5217f96ac" />
-</a>
+[![NJITBytes: Home Screen](https://github.com/Vladimir-G4/Vladimir-G4/assets/17418847/2078e654-f1ee-49e0-adbb-b3b4b2b48d5a)]([https://njitbytes.co)
+
+Coming Soon: https://oddspro.xyz
+
+[![OddsPro: Home Screen](https://github.com/Vladimir-G4/Vladimir-G4/assets/17418847/1beb7084-8bc6-4be7-95fe-a5ac1d4b55f2)](https://github.com/Vladimir-G4/OddsPro)
