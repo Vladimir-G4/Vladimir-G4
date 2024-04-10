@@ -1,5 +1,7 @@
 ## 👋 Hi there :)
-Hi, my name is Vladimir. I am currently a Software Engineer Co-op at Prudential. I am also an incoming Software Development Intern at Disney. In the past, I have interned at Selective Insurance, Fidelity, and PwC. Feel free to reach out via [email](mailto:vg377@njit.edu) or on [LinkedIn](https://www.linkedin.com/in/vladimir-gutierrez/)!
+Hi, my name is Vladimir. I am currently a Web Development & Integration Intern at Disney! In the past, I have interned at Prudential Financial, PricewaterhouseCoopers, Fidelity Investments, and Selective Insurance. Feel free to reach out via [email](mailto:vg377@njit.edu) or on [LinkedIn](https://www.linkedin.com/in/vladimir-gutierrez/)!
+
+My portfolio site is also [live!](https://vladimirgutierrez.dev)
 
 ## 🌱 Projects
 * NJITBytes [repo](https://github.com/jll38/njitbytes), originally a HackNJIT project, features personalized meal planning with AI integration, real-time menu updates, and nutritional insights for NJIT's Dining Hall.
