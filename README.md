@@ -1,5 +1,5 @@
 ## 👋 Hi there :)
-Hi, my name is Vladimir. I am currently a Web Development & Integration Intern at Disney! In the past, I have interned at Prudential Financial, PricewaterhouseCoopers, Fidelity Investments, and Selective Insurance. Feel free to reach out via [email](mailto:vg377@njit.edu) or on [LinkedIn](https://www.linkedin.com/in/vladimir-gutierrez/)!
+Hi, my name is Vladimir. I am currently a Web Development & Integration Intern at Disney! In the past, I have interned at Prudential Financial, PricewaterhouseCoopers, Fidelity Investments, and Selective Insurance. Feel free to reach out via [email](mailto:vg377@njit.edu) or on [LinkedIn!](https://www.linkedin.com/in/vladimir-gutierrez/)
 
 My portfolio site is also [live!](https://vladimirgutierrez.dev)
 
